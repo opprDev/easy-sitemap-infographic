@@ -1,2 +1,1 @@
-# easy-sitemap-infographic
-Graphicriver Sitemap Builder
+# Easy Sitemap Infographic
